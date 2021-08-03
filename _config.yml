@@ -1,0 +1,208 @@
+url:
+baseurl:
+
+# Site settings
+title: Rotaract Club NITK Chapter
+email: rotonitk@gmail.com
+description: Official website for the Rotaract Club NITK Chapter.
+
+# Team names, titles and social links
+people:
+- name: Rtr. Danish Waseem 
+  pic: 1.PNG
+  position: Director Club services
+  social:
+    - title: google
+      url: mailto:danish.waseem@outlook.com
+    - title: facebook
+      url: https://www.facebook.com/danish.kas.99
+    - title: linkedin
+      url: https://www.linkedin.com/in/danish-waseem-43b895192/
+
+- name: Rtr. Liz George 
+  pic: 2.png
+  position: President
+  social:
+    - title: google
+      url: mailto:lizgeorge00@hotmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/liz-george-663a1719b/
+
+- name: Rtr. Akshat Nambiar 
+  pic: 3.png
+  position: Secretary
+  social:
+    - title: google
+      url: mailto:akshat1804@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/akshatnambiar18/
+    - title: linkedin
+      url: https://www.linkedin.com/in/akshat-nambiar-353102166/
+
+- name: Rtr. Sanjo Sabu
+  pic: 4.png
+  position: Joint Convenor
+  social:
+    - title: google
+      url: mailto:sanjosabu00@gmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/sanjo-sabu-555370184
+
+- name: Rtr. Amaan Siyad
+  pic: 5.png
+  position: Vice President
+  social:
+    - title: google
+      url: mailto:amaansiyad24@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/amaan.siyad/
+    - title: linkedin
+      url: https://www.linkedin.com/in/amaan-siyad-a695041b9/
+
+- name: Rtr. Suraj Shenoy
+  pic: 6.png
+  position: Joint Secretary
+  social:
+    - title: google
+      url: mailto:suraj2shenoy@gmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/suraj-shenoy-169785201/
+
+- name: Rtr. Vaishnav Ajai
+  pic: 7.png
+  position: Sergeant at Arms
+  social:
+    - title: google
+      url: mailto:vaishnavajai@gmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/vaishnavajai
+
+- name: Rtr. Gaurav Hore
+  pic: 8.png
+  position: Director Vocational Services
+  social:
+    - title: google
+      url: mailto:gauravhore@gmail.com 
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/gaurav-hore-2608271b9
+
+- name: Rtr. Sarath Edaparambil
+  pic: 9.png
+  position: Director Community Services
+  social:
+    - title: google
+      url: mailto:sarath27e@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/sarath.edaparambil
+    - title: linkedin
+      url: https://www.linkedin.com/in/sarath-edaparambil-3a61521b9/
+
+- name: Rtr. Abhishek Kolari
+  pic: 10.png
+  position: Chairman Public Relations
+  social:
+    - title: google
+      url: mailto:abhishek.kolari@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/abhishek.kolari 
+    - title: linkedin
+      url: #
+
+- name: Rtr. Siddharth Soy
+  pic: 11.png
+  position: Director of Youth Services 
+  social:
+    - title: google
+      url: mailto:siddharthsoy@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/siddharth.soy.9
+    - title: linkedin
+      url: https://www.linkedin.com/in/siddharth-soy-a45361194/
+
+- name: Rtr. Mohit Khandate
+  pic: 12.png
+  position: Chairman Technical
+  social:
+    - title: google
+      url: mohit.mkhandate.946@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/mohit.mk.946
+    - title: linkedin
+      url: https://www.linkedin.com/in/mohit-khandate/
+
+- name: Rtr. Olan pinto
+  pic: 13.png
+  position: Director International Affairs
+  social:
+    - title: google
+      url: olanpinto@gmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/olan-pinto-442a5b192
+
+- name: Rtr. Girish Jeswani
+  pic: 14.png
+  position: Web Coordinator
+  social:
+    - title: google
+      url: mailto:girish_jeswani@live.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. L Nayanish
+  pic: 15.png
+  position: Editor
+  social:
+    - title: google
+      url: mailto:nayanishal@protonmail.com
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Rtr. Devina Kant
+  pic: 16.png
+  position: Treasurer
+  social:
+    - title: google
+      url: mailto:devinakant@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/devina.kant
+    - title: linkedin
+      url: http://www.linkedin.com/in/devina-kant-4919a81a2
+
+legal: "Privacy Policy"
+social:
+  - url: https://www.facebook.com/RotaractClubNITK/
+    icon: "fa fa-facebook"
+  - url: https://www.linkedin.com/company/rotaract-club-nitk-chapter/
+    icon: "fa fa-linkedin"
+  - url: https://www.youtube.com/channel/UChDkd089CGeiYpAySOdcE0A
+    icon: "fa fa-youtube"
+  - url: https://www.instagram.com/rotaract_nitk/
+    icon: "fa fa-instagram"
+
+analytics:
+  google:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: NITK Surathkal
+  - line: P.O Srinivasnagar, Karnataka, India 575025
+
+# Build settings
+markdown: kramdown
+permalink: pretty

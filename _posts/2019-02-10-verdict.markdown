@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+title: Verdict
+subtitle: Solve it
+description: "It is a courtroom case event held exclusively for the first years. The first round comprised of multiple games of Mafia.
+The next round comprised of two parts one was a deposition and the other the actual courtroom case. The students are given a police case which they had to crack. The students are divided into groups , the prosecution and the defence. The prosecution had to decide a primary suspect after the deposition, and the case would be taken to the courtroom the next day."
+frequency: Annually
+thumbnail: Thumbnails/verdict_thumb.png
+img: verdict-image.PNG
+eventdate: 10th February
+link: 
+sections:
+---

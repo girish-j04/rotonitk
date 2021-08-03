@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 3
+title: Verbose
+subtitle: Speak Up
+description: "The first edition of Verbose was indeed a grand success with a turnout of a few teams filled with enthusiastic juniors ready to take part in the fun they were guaranteed. The teams that spoke the best and displayed a well- defined thought process were qualified into the 2nd round after a marvelous bout of Jam sessions where each team proved their mettle by talking their hearts out.
+6 teams moved on to the 2nd round of turncoat debates where they were presented with issues that are censored by society. Each team displayed how calm and composed they were on switching sides and the fluidity in their thought processes and 3 of the best were selected on knockout basis.
+All the skills that these teams were judged on until then was put to the ultimate test in the final round of Spin the Yarn. And each team displayed how united they were while adapting to the challenge of sticking to the 3 word prompts given. Many interesting stories were told, and all 3 of them had the audience and the teams themselves cracking in laughter on each passing addition to the storyline. The teams enjoyed this round the most and had the time of their lives putting their wild imagination gears at work."
+frequency: Annually
+thumbnail: Thumbnails/verbose_thumb.png
+img: verbose-image.PNG
+eventdate: 10th October
+link: 
+sections:
+---

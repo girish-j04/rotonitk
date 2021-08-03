@@ -1,0 +1,79 @@
+---
+layout: default
+modal-id: 2
+title: Social Initiative Projects (SIPs)
+subtitle: Making a Change
+description: "Social Initiative Project (or SIP) is an initiative taken up by the club to highlight societal concerns and spread awareness about them through a series of events and online posts. This is a collaborative effort of all the members of the club which includes research, content creation, publicity and marketing among others. We frequently tie-up with other like-minded people and organisations to maximize our outreach. The SIPs are where we collectively work towards a common goal whilst strengthening our inter-personal skills."
+frequency: Monthly
+thumbnail: Thumbnails/sip_thumb.png
+img: 
+eventdate:
+link: 
+sections:
+- title: Mental Health Awareness Month
+  description: "As part of our Mental Health Awareness month, the next SIP was dedicated for the same cause. With the guidance of Dr. Rahul M. Rao, Clinical Psychiatrist, detailed content was put up about 8 common mental illnesses. This was followed by a fundraiser for The Banyan. In addition to this, we had many other events like Bingo for a Change, Confessions, Expo, etc on social media as part of MHA month."
+  img: sip-image1.PNG
+  alt: No image
+  date: October - December 2020
+  link: 
+- title: Reject Draft EIA Notification 2020
+  description: "The EIA has always banked on public opinion as one of the criterias to evaluate a project before awarding it an 'Environmental clearance' or a go-ahead signal. But the Draft of 2020 is formulated to change that. What the draft, ultimately, seeks to do is expand the list of projects that don’t require public consultations before receiving a prior environmental clearance allowing them to commence operations. This move could destroy life and environment at an exponential rate. To stop this from happening, we spread the word and circulated the petition to Reject E.I.A. We had a live session with the famous law student Sonali Jain who helped us get a more clear idea about the legal aspect of this issue. ISTE NITK joined us in our last leg of the project, the video publicity." 
+  img: sip-image2.PNG
+  alt: No image
+  date: August 2020
+  link:
+- title: Save DUMNA
+  description: "In collaboration with IE NITK, we joined the fight to stop commercialization of the only remaining untouched Nature Reserve in Jabalpur, Madhya Pradesh. A petition was circulated to stop the authorities from starting safari tours and other activities which can put the natural balance of the reserve in danger." 
+  img: sip-image3.PNG
+  alt: No image
+  date: July 2020
+  link:
+- title: PRIDE Month
+  description: "As men and women of conscience, we reject discrimination in general but due to lack of education and awareness and also due to cultural attitudes people refrain from acknowledging the discrimation against the LGBTQIA+ community. This preconceived notion is the main cause of oppression in the LGBTQIA+ community and we can put an end to this only by removing the stigma and educating the society about the partisanship about the community. So this month’s SIP was dedicated to spreading awareness about the LGBTQIA+ community." 
+  img: sip-image4.PNG
+  alt: No image
+  date: June 2020
+  link:
+- title: Cyclone Amphan
+  description: "On the 25th of May, a deadly cyclone named Amphan (pronounced as UM-PUN) made landfall in West Bengal and caused severe damage to Kolkata, Howrah and several other nearby areas. About 500,000 people had been evacuated to shelters by the state administration. South Asia has emerged as a global hotspot for disaster displacement in recent times. Seventeen teams of the National Disaster Response Force (NDRF) had been deployed in Odisha and West Bengal in view of the approaching cyclone. But this atrocity did not receive enough media coverage. So we took it upon ourselves to spread the word. We also raised funds for Quarantined Student Youth Network, Kolkata." 
+  img: sip-image5.PNG
+  alt: No image
+  date: May 2020
+  link:
+- title: CoVID-19
+  description: "By this time of 2020, the virus had reached all countries and the nation was in lockdown. With WHO declaring it as pandemic, people were in panic and confusion. To educate ourselves and the mass, a series of posts were released, highlighting the important points to remember." 
+  img: sip-image6.PNG
+  alt: No image
+  date: April 2020
+  link:
+- title: Cancer Health Camp
+  description: "As a part of our publicity for our first health camp, posts were put up on social media to spread awareness about the benefits of early detection. Special focus was given to Breast Cancer, Cervical cancer and Oral cancer." 
+  img: sip-image7.PNG
+  alt: No image
+  date: March 2020
+  link:
+- title: Combat Climate Change
+  description: "NITK Karavali Marathon has chosen 'Combat Climate Change' as this 2020’s #RunForACause. As a part of this, we came up with few posts, talking about the importance and benefits of sustainable practices like the 3R’s." 
+  img: sip-image8.PNG
+  alt: No image
+  date: December 2019
+  link:
+- title: Children's Day
+  description: "As a part of Children’s day, we decided to spread awareness about the dangers children face in our country. This was done through a series of hand-drawn comics in light of the theme." 
+  img: sip-image9.PNG
+  alt: No image
+  date: November 2019
+  link:
+- title: Mental Health Awareness Week
+  description: "As a part of this year’s MHA week, a series of posts were released. Each piece was about a famous personality who suffer/ed from a mental illness. This was done to promote positivity and success stories and tell that it is possible to overcome the obstacles posed by your mental illness." 
+  img: sip-image10.PNG
+  alt: No image
+  date: October 2019
+  link:
+- title: Water Scarcity
+  description: "The first SIP project was about water scarcity in India. 700 million people worldwide could be displaced by intense water scarcity by 2030. 40% of India will have no access to water by 2030.  Chennai is practically the first Indian city to have gone dry with the Central Water Commission reporting a rainfall deficit of 41 per cent in Tamil Nadu till June 13 this year. By 2025, 1.8 billion people will be living in countries or regions with absolute water scarcity, and two-thirds of the world's population could be living under water stressed" 
+  img: sip-image11.PNG
+  alt: No image
+  date: July-August 2019
+  link:
+---

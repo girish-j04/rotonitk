@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 1
+title: NITK Karavali Marathon
+subtitle: Annual Marathon
+description: "Rotaract Club - NITK Chapter organised NITK Karavali Marathon jointly with the NITK Students   Council and Task Force - NITK under the supervision of the NITK Alumni Association. With an average of over 2000 participants. A full marathon was introduced  and started at 5.30 am with strong participants from Kenya and Ethiopia. The run was themed at ‘Save the Oceans’ and ‘Run for Unity’ with multiple Pre-events organised to raise awareness for the causes.The prize money of over 1.5L attracts a lot of participants.
+The route covers the picturesque NH66 Highway and the Surathkal/NITK beach roads.
+It is conducted once a year in the month of december-january.
+
+Rotaract Club NITK Chapter was proud to proud to be a part of the first student organised Full Marathon in the state. The Marketing team for the event comprising of the club members did a wonderful job by opening up the event to sponsors like MRPL, Revv, Impact-Social app etc. The logistics of the event on the day was done by the Rotaract Club members who helped out at the water stations and at the event setup. We aim to grow this event bigger every year and we expect a lot more participation next year from outside the NITK Fraternity. We are looking forward to getting our event accredited by the Indian and World Sports federations."
+frequency: Annual
+thumbnail: Thumbnails/marathon_thumb.png
+img: nkm-image.PNG
+eventdate: 11th January
+link: https://karavalimarathon.nitk.ac.in/
+sections:
+---

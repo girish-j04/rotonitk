@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rotaract Club NITK Chapter</title>
+    <description>Official website for the Rotaract Club NITK Chapter.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 03 Aug 2021 15:36:53 +0400</pubDate>
+    <lastBuildDate>Tue, 03 Aug 2021 15:36:53 +0400</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Verbose</title>
+        <description>
+</description>
+        <pubDate>Sat, 10 Oct 2020 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2020/10/10/verbose/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/10/verbose/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>NITK Karavali Marathon</title>
+        <description>
+</description>
+        <pubDate>Sat, 11 Jan 2020 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2020/01/11/karavali/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/11/karavali/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>RoTalks</title>
+        <description>
+</description>
+        <pubDate>Fri, 03 Jan 2020 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2020/01/03/rotalks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/03/rotalks/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Social Initiative Projects (SIPs)</title>
+        <description>
+</description>
+        <pubDate>Thu, 02 Jan 2020 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2020/01/02/sip/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/02/sip/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fundraisers</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2020/01/01/fundraisers/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/01/fundraisers/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Annual Charity Play</title>
+        <description>
+</description>
+        <pubDate>Sat, 06 Apr 2019 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2019/04/06/charityplay/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/06/charityplay/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Panache</title>
+        <description>
+</description>
+        <pubDate>Wed, 13 Feb 2019 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2019/02/13/panache/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/13/panache/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Head Start</title>
+        <description>
+</description>
+        <pubDate>Tue, 12 Feb 2019 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2019/02/12/headstart/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/12/headstart/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Blockbuster</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Feb 2019 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2019/02/11/blockbuster/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/11/blockbuster/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Verdict</title>
+        <description>
+</description>
+        <pubDate>Sun, 10 Feb 2019 00:00:00 +0400</pubDate>
+        <link>http://localhost:4000/2019/02/10/verdict/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/10/verdict/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+---
+layout: default
+modal-id: 7
+title: RoTalks
+subtitle: Speech is Important
+description: "A series of knowledge exchange programs held over the course of the semester open currently only for the members of the club. The talk series touches upon mainly social issues that we are not particularly aware of and attempts to spread awareness among the club members on issues which are important to the society. Initially, the talks series were all conducted in the Virtual Classroom in the CCC and were all recorded with the help of Taskforce NITK. Over the course of the pandemic, it has become our platform for a video content awareness project where the RoTalks team put together video content from speakers and guests."
+frequency: Every 1-2 months
+thumbnail: Thumbnails/rotalks_thumb.png
+img: 
+eventdate: 
+link: https://youtube.com/playlist?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+sections:
+- title: Mental Health Matters
+  description: "As part of our Mental Health Awareness month, this month’s RoTalks episode is dedicated to talk about how mental health matters. With the guidance of Mrs. Urmimala Sinha, Clinical Psychologist, detailed content was put together about the important aspects of mental health in day to day life. This Episode was released in 2 parts."
+  img: 
+  alt: No image
+  date: December 2020
+  link: https://youtu.be/xgd_0UhThtM?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+- title: Racism in India
+  description: "Inspired by the BLM movement, we decided to take a look at how racism is ingrained in Indian society. The video focuses on the various dynamics and sources of latent form of racial discrimination." 
+  img: rotalks-imagerace.PNG
+  alt: No image
+  date: October 2020
+  link: https://youtu.be/SXTirdRHP0c?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+- title: Police Brutality
+  description: "Following the case of Jayaraj and Benix, multiple cases of police brutality began to emerge all across the nation. But very little was talked about the legal aspect about the issue. In this episode, we talked to Adv. Rupraj of Rotaract Club of Howrah Avyanna, who told us about our rights as a citizen once in police custody and measures to take to prevent being abused by the police force." 
+  img: rotalks-imagepolice.PNG
+  alt: No image
+  date: August 2020
+  link: https://youtu.be/ODR8RDHHA5Y?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+- title: PRIDE
+  description: "As a part of the Pride month project, our first online episode of RoTalks was about the LGBTQIA+ community. Our speakers were Indians from different parts of the world who identify themself as a member of this community." 
+  img: rotalks-imagepride.PNG
+  alt: No image
+  date: July 2020
+  link: https://youtu.be/4aQYPlxDJtY?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+- title: Freedom of Speech
+  description: "Rtr. Fathima talked about the ironical question; Freedom of speech or freedom from speech?" 
+  img: 
+  alt: No image
+  date: January 2019
+  link: https://youtu.be/PJMJ50UQ2JM?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz 
+- title: The Rotary Movement
+  description: "Rtr. Anthea talked about the history and structure of Rotary International, the very foundation of our club." 
+  img: 
+  alt: No image
+  date: October 2018
+  link: https://youtu.be/wijAnNGYJVw?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+- title: Importance of CSR
+  description: "Rtr. Vinay gave us an insight on Corporate Social Responsibility, it’s working and importance." 
+  img: rotalks-imagecsr.PNG
+  alt: No image
+  date: September 2018
+  link: https://youtu.be/fFOE1vwiHn8?list=PLrdl_kt2PD3F3b_QQvxoCY9hu2RafJVzz
+---

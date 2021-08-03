@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 10
+title: Panache
+subtitle: Dance and Compete
+description: "Panache:  the inter-branch dance competition is organised in the Silver Jubilee Auditorium in NITK. The event has three rounds. The first round is a group dance, and the top 4 teams are chosen to go onto the next round, which is a solo or duet. For the final round, the top two teams battle it out on the dance floor with a face-off. It is a pretty fun experience for everyone out there.It is conducted once a year."
+frequency: Annually
+thumbnail: Thumbnails/panache_thumb.png
+img: panache-image.PNG
+eventdate: 13th February
+link: https://youtu.be/KZRYuMqH-CU
+sections:
+---
