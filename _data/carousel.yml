@@ -1,4 +1,4 @@
 images: 
-  - image: ../img/gallery/1.jpg
+  - image: ../../img/gallery/1.jpg
   - image: ../img/gallery/2.jpg
   - image: ../img/gallery/3.JPG
